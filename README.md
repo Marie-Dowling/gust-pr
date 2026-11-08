@@ -1,6 +1,6 @@
 # Gust PR
 
-**If Claude or ChatGPT is going to be your PR team, make sure it was trained by PR's best, not mediocre advice and press releases nobody asked for.**
+**If you're going to use Claude, ChatGPT or your preferred AI companion as your PR team, at least make sure they know PR's best practice, instead of mediocre advice resulting in press releases and pitches no journalist will reply to.**
 
 A newsroom in your Claude, not a toolbox.
 
