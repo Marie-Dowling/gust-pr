@@ -1,6 +1,6 @@
 ---
 name: interview-pitch
-description: "Write an interview pitch to a named journalist: subject line starting 'Interview opp:', a twelve-element body that opens with the heart of the story and the why-now, shows the conflict, uses only real quotes, and removes every scheduling excuse. Two variants: your own news, or a trend you have standing on."
+description: "Write an interview pitch to a named journalist: subject line starting 'Interview opp:', a twelve-element body that opens with the heart of the story and the why-now, shows the conflict, uses only real quotes, and removes every scheduling excuse. Two variants: your own news, or a story you are joining."
 when_to_use: "User wants to pitch an interview, offer a spokesperson, get a founder or expert on a journalist's radar, or story-sorter returned 'interview pitch'. Needs a named journalist, a hook, a spokesperson and their availability; ask for what is missing before drafting."
 metadata:
   category: Write
@@ -20,7 +20,7 @@ not been run; do not draft around a missing boilerplate, image set or bio.
 
 - **Announcement.** The hook is the brand's own news: a milestone, a
   partnership, a launch, a result.
-- **Newsjacking.** The hook is a trending topic or news item the
+- **Joining a story.** The hook is a trending topic or news item the
   spokesperson has real, demonstrable expertise on. The brand's news is
   secondary; the expertise is the story.
 

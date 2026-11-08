@@ -58,7 +58,7 @@ the etiquette layer:
 - **FIX THESE THREE THINGS.** The draft with the three fixes named above
   it, biggest first. Never more than three; if there are ten, the story is
   not ready and the verdict is the next one.
-- **404.** No story. Say why in one sentence. Then the Pitch Twist (is there
+- **404.** Gust says no. No story. Say why in one sentence. Then the Pitch Twist (is there
   a candid lesson that turns this into an opinion play?) and the owned-channel
   version (a LinkedIn post to the people directly affected, drafted in four
   lines).

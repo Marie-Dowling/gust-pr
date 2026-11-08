@@ -7,8 +7,8 @@ new skills that follow the same shape.
 ## Shape of a skill
 
 `skills/<slug>/SKILL.md` with frontmatter `name`,
-`description`, `when_to_use`, `metadata.category` (Prepare, Decide, Write,
-Detect), then the doctrine, the steps, the output template, the checklist.
+`description`, `when_to_use`, `metadata.category` (Desk, Decide, Write,
+Watch), then the doctrine, the steps, the output template, the checklist.
 Every skill ends with the same two lines. Keep them.
 
 ## What we will not merge

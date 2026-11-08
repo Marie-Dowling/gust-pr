@@ -3,7 +3,7 @@ name: pr-readiness-check
 description: "Check whether a brand and a story are ready to go in front of a journalist: the T&C gate, boilerplate, visuals, the ONE spokesperson bio, availability, and a plain is-there-a-story test. Returns ready / fix these / 404 (no story, use the Pitch Twist or your own channels)."
 when_to_use: "User wants to pitch, send a release, announce something, 'get some press', or asks whether a story is newsworthy, ready, or worth sending. Run this before any writing skill. The Editor in Chief agent runs it first, every time."
 metadata:
-  category: Prepare
+  category: Desk
 ---
 
 # PR readiness check
@@ -81,7 +81,8 @@ Three questions. Answer each in one line from the user's material only.
    nothing for a journalist to write.
 
 Three strong answers: **ready**. Two: **ready, with the weak one named** so
-the writing skill leads with the other two. One or none: **404**.
+the writing skill leads with the other two. One or none: **404**. Gust says
+no, and says why.
 
 Things that are almost always a 404 on their own: a new hire, a product
 update, a small event, a milestone only the founder's mum would celebrate,
