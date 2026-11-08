@@ -4,13 +4,13 @@
     "name": "Gust PR",
     "url": "https://gustpr.com"
   },
-  "description": "Gust PR's open skills and agents. One new workflow every Friday.",
+  "description": "If Claude or ChatGPT is going to be your PR team, make sure it was trained by PR's best, not mediocre advice and press releases nobody asked for. Gust PR's open skills and agents, one new workflow every Friday.",
   "plugins": [
     {
       "name": "gust-pr",
       "source": "./",
       "displayName": "Gust PR",
-      "description": "Earned media, the Gust way: an Editor in Chief, a Chief Trend Officer, and the craft skills they work from.",
+      "description": "If Claude or ChatGPT is going to be your PR team, make sure it was trained by PR's best, not mediocre advice and press releases nobody asked for. Open craft from Gust PR: an Editor in Chief who says no, a Chief Trend Officer who runs your Monday, and the skills they work from. Built in Australia.",
       "version": "0.1.0",
       "license": "MIT",
       "homepage": "https://gustpr.com/skills"

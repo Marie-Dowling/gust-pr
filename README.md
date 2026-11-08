@@ -1,6 +1,8 @@
 # Gust PR
 
-**A newsroom in your Claude. Not a toolbox.**
+**If Claude or ChatGPT is going to be your PR team, make sure it was trained by PR's best, not mediocre advice and press releases nobody asked for.**
+
+A newsroom in your Claude, not a toolbox.
 
 Gust PR is an earned-media platform built in Australia by someone who spent
 twenty years getting people into the news and keeping them out of it. This
