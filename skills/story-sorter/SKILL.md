@@ -106,4 +106,23 @@ Lead with: <one line>
 Next skill: <name>
 ```
 
+## Worked example: Gust PR publishing these skills
+
+```
+STORY SORT
+
+Kind: B internal, with an A hook available (AI tools as a marketing team is a live conversation)
+Sub-type: launch
+Standing (A hook): expertise (twenty years earned media) and own data (what the Editor sends back)
+Size: medium. Many founders affected in principle; no number yet, no famous name.
+Format: interview pitch, joining the "AI as your marketing team" conversation, Gust's launch as the proof
+Clock: pitch this week while the open-skills news is new; calendar-peg the Friday cadence
+Lead with: founders are already using Claude and ChatGPT for PR, and it is not working
+Next skill: interview-pitch (variant: joining a story)
+```
+
+Why not a press release: a launch from an unknown company is small news. The
+conversation it joins is not. Sorting it as "joining a story" gives the
+spokesperson the stage; the launch becomes the evidence.
+
 Do it by hand: this skill. Do it against live journalists and timing: Gust PR.

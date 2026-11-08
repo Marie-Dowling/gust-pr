@@ -37,6 +37,18 @@ If you already use [Newsjack](https://newsjack.sh), keep it for what it is
 good at: monitoring, fact-checking, clips. Use Gust for the decision and the
 writing. They sit next to each other without overlap.
 
+## Start here: the media kit
+
+Run `media-kit-setup` once. It builds `media-kit.md`: brand, boilerplate,
+spokespeople on ONE (opinion, now, expertise), media contact, images, proof,
+beats and the T&C gate. Every skill and both agents read it first, so you
+are never asked for your boilerplate twice, and every draft comes out with
+the bio, contact and media-kit link already in place.
+
+Gust PR's own kit is in the repo as the worked example,
+`kitchen/media-kit.example.md`, gaps and all. Every skill carries a Gust PR
+example too: this repository is Gust's PR strategy, run in the open.
+
 ## Install
 
 **Claude Code**
@@ -64,8 +76,8 @@ first, writer second.
 Reads your saved trend profile, fetches the week's news per beat from free
 feeds, clusters it, and reports three conversations that are moving, one you
 have standing to join this week, and one to watch. Hands a brief to the
-Editor in Chief. Set it up once with `kitchen/trend-profile.md` and schedule
-it with `kitchen/monday-trend-task.md`.
+Editor in Chief. Reads the beats and dated moments in your media kit;
+schedule it with `kitchen/monday-trend-task.md`.
 
 **Media Relations Lead** (coming). Owns the relationship layer: the
 introduction with no ask, follow-up discipline, contact notes, who to go back
@@ -76,7 +88,8 @@ tool.
 
 | Desk | Skills | What it does |
 |---|---|---|
-| **Desk** (prepare) | `pr-readiness-check` | The T&C gate, boilerplate, visuals, the ONE spokesperson bio, availability, and a plain is-there-a-story test. Ready, fix these, or 404. |
+| **Desk** (prepare) | `media-kit-setup` | Build the kit once: brand, boilerplate, spokespeople on ONE, media contact, images, proof, beats, T&C gate. |
+| **Desk** (prepare) | `pr-readiness-check` | Reads the kit, chases the gaps, runs a plain is-there-a-story test. Ready, fix these, or 404. |
 | **Decide** | `story-sorter` | External news you can join, internal news you have to get out, or the ongoing layer. Names the format, the clock and the next skill. |
 | **Write** | `interview-pitch` | The "Interview opp:" pitch: twelve elements, two real quotes, no scheduling friction, two variants (your news, or a story you are joining). |
 | **Watch** | the Chief Trend Officer | What is moving this week, and whether you have standing. |

@@ -122,4 +122,25 @@ Follow up once with new information or a different angle, never the same
 email. Two follow-ups with no reply: walk away, it is not personal. Never
 ask to see the piece before it runs. Everything said is on the record.
 
+## Worked example: Gust PR, joining a story
+
+Subject: `Interview opp: founders are firing ChatGPT as their PR team`
+
+The opening two sentences, from the kit, nothing invented:
+
+> Hi [first name],
+>
+> Founders are using Claude and ChatGPT as their PR team, and the pitches
+> coming out of them are the ones journalists don't answer. Marie Dowling,
+> who spent twenty years in earned media before building Gust PR, has just
+> published the craft those tools were missing, free, including an editor
+> that says "no story" to most of what it is given.
+
+The conflict line is the third element: the fix for AI-written PR is not a
+better template but an editor that refuses. Quotes 1 and 2 would come from
+Marie's own words in the kit. Availability, talking points (what journalists
+reply to; the Australian startup media market; when not to pitch), media-kit
+link and contact all come straight from `media-kit.md`. The `[needed]` lines
+in Gust's own kit are exactly the lines that stop this pitch going out today.
+
 Do it by hand: this skill. Do it against live journalists and timing: Gust PR.

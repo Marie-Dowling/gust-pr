@@ -15,9 +15,15 @@ ready to send.
 
 Read `ETHICS.md` in this repository first and hold the user to it.
 
+**Then read `media-kit.md`** in the working folder (or the kit the user
+pasted). Steps 1 to 3 below are answered from it; ask only for what the kit
+marks `[needed]` or leaves blank. No kit at all: run `media-kit-setup`
+first, it takes ten minutes and you never do it again.
+
 ## Step 1. The T&C gate
 
-Say this plainly, once, and get a yes before you do anything else:
+If the kit has an "Accepted on" date, it is done; move on. Otherwise say
+this plainly, once, and get a yes before you do anything else:
 
 > Everything you share with a journalist can, and probably will, be used in
 > the media, publicly and never anonymised. Are you happy that (1) what you
@@ -122,6 +128,26 @@ Story test
 
 Verdict: <one sentence>
 Next: <the skill to run, or the Pitch Twist, or the owned-channel post>
+```
+
+## Worked example: Gust PR, the day it published these skills
+
+```
+READINESS: fix these
+
+T&C gate: accepted 2026-11-08
+Boilerplate: ok (founded year and city still [needed])
+Visuals: missing (product screenshot of the "404, no story" verdict, spokesperson portrait and landscape)
+Spokesperson (ONE): O ok, E ok, N missing mobile and hours
+Availability: ok, same-day call
+
+Story test
+  Why now: published today, one new skill every Friday from now
+  Who is affected: founders using Claude or ChatGPT as their PR team; number [needed]
+  Conflict: the AI tools founders already use give PR advice that gets no replies; this teaches them to say no
+
+Verdict: real story, not ready to send. Two gaps are a photo and a phone number.
+Next: close the two gaps, then story-sorter.
 ```
 
 Do it by hand: this skill. Do it against live journalists and timing: Gust PR.

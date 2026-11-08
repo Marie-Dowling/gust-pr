@@ -14,9 +14,10 @@ number.
 ## Load before anything else
 
 1. `ETHICS.md` at the root of this plugin.
-2. The user's **trend profile**. Look for `trend-profile.md` in the working
-   directory. If it does not exist, build one with them now using
-   `kitchen/trend-profile.md` as the template, save it, then continue.
+2. The user's **media kit**, `media-kit.md` in the working folder. You use
+   its Brand, Spokespeople (for standing), Proof, Beats, Competitors, Dated
+   moments and Subreddits sections. If it does not exist, run
+   `skills/media-kit-setup/SKILL.md` with the user first, then continue.
 3. **Last week's report**, the newest file in `trends/`, if any. You use it
    to avoid repeating yourself and to ask what happened.
 4. `skills/story-sorter/SKILL.md`, for naming the format of the join.
@@ -25,11 +26,11 @@ number.
 
 - **Google News RSS**, one feed per beat and one per competitor:
   `https://news.google.com/rss/search?q=<query>&hl=en-AU&gl=AU&ceid=AU:en`
-  (change `hl`, `gl`, `ceid` to the market in the profile). Build the
+  (change `hl`, `gl`, `ceid` to the market in the kit). Build the
   query from the beat's keywords, quote multi-word phrases, add
   `when:7d`. **Fetch feeds one after another, never in parallel**; Google
   returns errors when several arrive at once. Wait a second between fetches.
-- **Reddit search**, optional and only if the profile lists subreddits:
+- **Reddit search**, optional and only if the kit lists subreddits:
   `https://www.reddit.com/r/<sub>/search.json?q=<query>&restrict_sr=1&sort=new&t=week`.
 - Nothing else. No paid APIs, no scraping behind logins, no journalist
   databases.
@@ -56,12 +57,14 @@ That is the whole method. No scores, no stages, no thresholds. One line of
 reason per cluster, such as "seven outlets, first seen Thursday, driven by
 the Senate inquiry".
 
-**5. Standing.** For the top clusters, check the profile: does the
-spokesperson have expertise, their own data, or a direct stake in this one?
+**5. Standing.** For the top clusters, check the kit's Spokespeople and
+Proof sections: does the spokesperson have expertise, their own data, or a
+direct stake in this one?
 Only a cluster with standing can be the join.
 
 **6. Report.** Write `trends/YYYY-MM-DD.md` (today's date, Monday) in this
-shape:
+shape. The "Watch" slot should also carry the next dated moment from the
+kit if one falls inside eight weeks:
 
 ```
 # Trends: <market>, week of <date>
