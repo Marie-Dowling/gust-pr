@@ -1,0 +1,19 @@
+{
+  "name": "gust-pr",
+  "owner": {
+    "name": "Gust PR",
+    "url": "https://gustpr.com"
+  },
+  "description": "Gust PR's open skills and agents. One new workflow every Friday.",
+  "plugins": [
+    {
+      "name": "gust-pr",
+      "source": "./",
+      "displayName": "Gust PR",
+      "description": "Earned media, the Gust way: an Editor in Chief, a Chief Trend Officer, and the craft skills they work from.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "homepage": "https://gustpr.com/skills"
+    }
+  ]
+}

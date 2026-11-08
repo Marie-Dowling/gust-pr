@@ -1,0 +1,14 @@
+{
+  "name": "gust-pr",
+  "displayName": "Gust PR",
+  "version": "0.1.0",
+  "description": "Earned media, the Gust way. An Editor in Chief who decides whether your story goes out, a Chief Trend Officer who runs your Monday, and the craft skills they work from: readiness check, story sorter, interview pitch. Written for Australian and NZ media; works anywhere a journalist has an inbox.",
+  "author": {
+    "name": "Marie Dowling",
+    "url": "https://gustpr.com"
+  },
+  "homepage": "https://gustpr.com/skills",
+  "repository": "https://github.com/Marie-Dowling/gust-pr",
+  "license": "MIT",
+  "keywords": ["pr", "earned-media", "media-relations", "pitching", "australia", "agents"]
+}
